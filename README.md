@@ -12,13 +12,14 @@
 
 ### 🛠️ Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind,nestjs,nodejs,laravel,py,postgres,firebase,supabase,flutter,gcp,docker,githubactions,neovim,tmux&perline=9" />
-  </a>
-</p>
-
-<sub>**Also working with:** React Native · Expo · shadcn/ui · OpenAI · Google Gemini · n8n · Zapier · Claude Code · Gemini CLI · Codex CLI</sub>
+|     |     |
+| --- | --- |
+| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> &nbsp;<sub>React Native · Expo</sub> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> &nbsp;<sub>shadcn/ui</sub> |
+| 🛠️ **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,py,postgres,firebase,supabase" height="32" /> |
+| 🤖 **AI & Automation** | <sub>OpenAI · Google Gemini · n8n · Zapier</sub> |
+| ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions" height="32" /> |
+| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<sub>Claude Code · Gemini CLI · Codex CLI</sub> |
 
 ---
 
@@ -34,14 +35,14 @@
 - Proposed workflow improvements that reduced build times and streamlined deployments
 
 **Full Stack Engineer** · *JLabs Innovatech Inc.* · Jan 2024 – June 2025
-- Delivered features across **6 client products** using React, React Native, NestJS, and Laravel:
-  - **Pieza** — vehicle parts marketplace (web + mobile, Excel import/export)
-  - **Resqyou** — online ticketing system for traffic violations with PDF + e-signature export
+- Delivered features across **7 client products** using React, React Native, NestJS, and Laravel:
+  - <img src="https://www.google.com/s2/favicons?domain=pieza.ph&sz=32" width="16" align="top" /> **[Pieza](https://pieza.ph)** — vehicle parts marketplace · web + mobile · built Excel import/export for product catalogs &nbsp;[<sub>iOS</sub>](https://apps.apple.com/ph/app/pieza/id6445899855) · [<sub>Android</sub>](https://play.google.com/store/apps/details?id=com.pieza)
+  - <img src="https://www.google.com/s2/favicons?domain=reforal.com&sz=32" width="16" align="top" /> **[Reforal](https://reforal.com)** — dental clinic & lab referral portal · built the dentist community board and admin-portal mobile responsiveness
+  - <img src="https://www.google.com/s2/favicons?domain=vublox.com&sz=32" width="16" align="top" /> **[Vublox](https://vublox.com)** — sports timeline platform · built the events timeline, under-18 content moderation, and invite management
+  - <img src="https://www.google.com/s2/favicons?domain=yearglance.com&sz=32" width="16" align="top" /> **[Year Glance](https://yearglance.com)** — multi-calendar year planner · added UI-toggling and event-filtering features
+  - **Resqyou** — online traffic-violation ticketing handled by lawyers · built name/signature editing and PDF export
+  - **Tulu** — car rental marketplace · built the favorites system and shipped UI/code optimizations
   - **WSG Energy Services** — built from scratch; PDF canvas with annotation tags
-  - **Reforal** — referral system for dental clinics with community board
-  - **Tulu** — car rental marketplace; favorites system
-  - **VuBlox** — sports hub with timeline, content moderation (under-18 protection), invite management
-  - **Year Glance** — calendar management with UI toggling and event filtering
 
 **Junior Full Stack Developer** · *Baytech BPO Corp.* · Jan 2023 – Jan 2024
 - **PDFRun** (Vue + CodeIgniter) — PDF wizard sites with admin field insertion, payment modals, and feature-flag system for marketing
