@@ -116,3 +116,4 @@ A web-based system + Arduino hardware for data-driven solid waste management in 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerichobermas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jecho.deleon@gmail.com)
+[![Resume](https://img.shields.io/badge/Download_Resume-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/aslaii/aslaii/raw/main/Jericho-Bermas-CV.pdf)
