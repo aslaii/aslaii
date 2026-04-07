@@ -14,12 +14,12 @@
 
 |     |     |
 | --- | --- |
-| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> <img src="https://cdn.simpleicons.org/expo/000000" height="28" alt="Expo" /> |
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> <img src="https://cdn.simpleicons.org/shadcnui/000000" height="28" alt="shadcn/ui" /> |
+| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> &nbsp;<img src="./assets/expo.svg" height="28" alt="Expo" /> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> &nbsp;<img src="./assets/shadcnui.svg" height="28" alt="shadcn/ui" /> |
 | 🛠️ **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,py,postgres,firebase,supabase" height="32" /> |
-| 🤖 **AI & Automation** | <img src="https://cdn.simpleicons.org/openai/412991" height="28" alt="OpenAI" /> &nbsp;<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="28" alt="Gemini" /> &nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="28" alt="n8n" /> &nbsp;<img src="https://cdn.simpleicons.org/zapier/FF4F00" height="28" alt="Zapier" /> |
+| 🤖 **AI & Automation** | <img src="./assets/openai.svg" height="28" alt="OpenAI" /> &nbsp;<img src="./assets/googlegemini.svg" height="28" alt="Google Gemini" /> &nbsp;<img src="./assets/n8n.svg" height="28" alt="n8n" /> &nbsp;<img src="./assets/zapier.svg" height="28" alt="Zapier" /> |
 | ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions" height="32" /> |
-| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<img src="https://cdn.simpleicons.org/anthropic/D97757" height="28" alt="Claude Code" /> &nbsp;<img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="28" alt="Gemini CLI" /> &nbsp;<img src="https://cdn.simpleicons.org/openai/000000" height="28" alt="Codex CLI" /> |
+| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<img src="./assets/anthropic.svg" height="28" alt="Claude Code" /> &nbsp;<img src="./assets/googlegemini.svg" height="28" alt="Gemini CLI" /> &nbsp;<img src="./assets/openai.svg" height="28" alt="Codex CLI" /> |
 
 ---
 
