@@ -33,6 +33,10 @@
 
 ---
 
+### 🎓 Research
+
+- 🗑️ **KALAT** — Capstone project (BS Computer Engineering, Mapúa MCL 2024). A web-based system + Arduino hardware for data-driven solid waste management in Calamba City, using GSM-equipped smart bins, real-time weight sensing, and Google OR-Tools VRP routing for collection-route optimization. Co-authored with J. David and J.P. Parica. → **[trash-backend](https://github.com/aslaii/trash-backend)** (Python/Flask + OR-Tools)
+
 ### 🚀 Featured Projects
 
 - 📡 **[omni-channel](https://github.com/aslaii/omni-channel)** — Omnichannel comms webapp · email, SMS, voice, realtime chat (Firebase + Twilio)
