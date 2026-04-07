@@ -14,12 +14,12 @@
 
 |     |     |
 | --- | --- |
-| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> &nbsp;<sub>React Native · Expo</sub> |
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> &nbsp;<sub>shadcn/ui</sub> |
+| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> <img src="https://cdn.simpleicons.org/expo/000000" height="28" alt="Expo" /> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> <img src="https://cdn.simpleicons.org/shadcnui/000000" height="28" alt="shadcn/ui" /> |
 | 🛠️ **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,py,postgres,firebase,supabase" height="32" /> |
-| 🤖 **AI & Automation** | <sub>OpenAI · Google Gemini · n8n · Zapier</sub> |
+| 🤖 **AI & Automation** | <img src="https://cdn.simpleicons.org/openai/412991" height="28" alt="OpenAI" /> &nbsp;<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="28" alt="Gemini" /> &nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="28" alt="n8n" /> &nbsp;<img src="https://cdn.simpleicons.org/zapier/FF4F00" height="28" alt="Zapier" /> |
 | ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions" height="32" /> |
-| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<sub>Claude Code · Gemini CLI · Codex CLI</sub> |
+| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<img src="https://cdn.simpleicons.org/anthropic/D97757" height="28" alt="Claude Code" /> &nbsp;<img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="28" alt="Gemini CLI" /> &nbsp;<img src="https://cdn.simpleicons.org/openai/000000" height="28" alt="Codex CLI" /> |
 
 ---
 
@@ -36,10 +36,10 @@
 
 **Full Stack Engineer** · *JLabs Innovatech Inc.* · Jan 2024 – June 2025
 - Delivered features across **7 client products** using React, React Native, NestJS, and Laravel:
-  - <img src="https://www.google.com/s2/favicons?domain=pieza.ph&sz=32" width="16" align="top" /> **[Pieza](https://pieza.ph)** — vehicle parts marketplace · web + mobile · built Excel import/export for product catalogs &nbsp;[<sub>iOS</sub>](https://apps.apple.com/ph/app/pieza/id6445899855) · [<sub>Android</sub>](https://play.google.com/store/apps/details?id=com.pieza)
-  - <img src="https://www.google.com/s2/favicons?domain=reforal.com&sz=32" width="16" align="top" /> **[Reforal](https://reforal.com)** — dental clinic & lab referral portal · built the dentist community board and admin-portal mobile responsiveness
-  - <img src="https://www.google.com/s2/favicons?domain=vublox.com&sz=32" width="16" align="top" /> **[Vublox](https://vublox.com)** — sports timeline platform · built the events timeline, under-18 content moderation, and invite management
-  - <img src="https://www.google.com/s2/favicons?domain=yearglance.com&sz=32" width="16" align="top" /> **[Year Glance](https://yearglance.com)** — multi-calendar year planner · added UI-toggling and event-filtering features
+  - <img src="./assets/pieza.jpg" width="18" align="top" /> **[Pieza](https://pieza.ph)** — vehicle parts marketplace · web + mobile · built Excel import/export for product catalogs &nbsp;[<sub>iOS</sub>](https://apps.apple.com/ph/app/pieza/id6445899855) · [<sub>Android</sub>](https://play.google.com/store/apps/details?id=com.pieza)
+  - <img src="./assets/reforal.png" width="18" align="top" /> **[Reforal](https://reforal.com)** — dental clinic & lab referral portal · built the dentist community board and admin-portal mobile responsiveness
+  - <img src="./assets/vublox.png" width="18" align="top" /> **[Vublox](https://vublox.com)** — sports timeline platform · built the events timeline, under-18 content moderation, and invite management
+  - <img src="./assets/yearglance.jpg" width="18" align="top" /> **[Year Glance](https://yearglance.com)** — multi-calendar year planner · added UI-toggling and event-filtering features
   - **Resqyou** — online traffic-violation ticketing handled by lawyers · built name/signature editing and PDF export
   - **Tulu** — car rental marketplace · built the favorites system and shipped UI/code optimizations
   - **WSG Energy Services** — built from scratch; PDF canvas with annotation tags
