@@ -10,16 +10,53 @@
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
-|     |     |
-| --- | --- |
-| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter" height="32" /> &nbsp;<img src="./assets/expo.svg" height="28" alt="Expo" /> |
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind" height="32" /> &nbsp;<img src="./assets/shadcnui.svg" height="28" alt="shadcn/ui" /> |
-| 🛠️ **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,py,postgres,firebase,supabase" height="32" /> |
-| 🤖 **AI & Automation** | <img src="./assets/openai.svg" height="28" alt="OpenAI" /> &nbsp;<img src="./assets/googlegemini.svg" height="28" alt="Google Gemini" /> &nbsp;<img src="./assets/n8n.svg" height="28" alt="n8n" /> &nbsp;<img src="./assets/zapier.svg" height="28" alt="Zapier" /> |
-| ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions" height="32" /> |
-| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=neovim,tmux" height="32" /> &nbsp;<img src="./assets/anthropic.svg" height="28" alt="Claude Code" /> &nbsp;<img src="./assets/googlegemini.svg" height="28" alt="Gemini CLI" /> &nbsp;<img src="./assets/openai.svg" height="28" alt="Codex CLI" /> |
+**📱 Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat&logo=expo&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**🎨 Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat&logo=shadcnui&logoColor=white)
+
+**🛠️ Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**🤖 AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+
+**☁️ DevOps & Cloud**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**⚙️ Tools**
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-000?style=flat&logo=openai&logoColor=white)
 
 ---
 
