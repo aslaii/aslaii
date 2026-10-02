@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Jericho 👋</h1>
+<h1 align="center">Hi, I'm aslaii 👋</h1>
 <p align="center">
-  <b>Full Stack & Automations Engineer</b><br/>
+  <b>Software Engineer</b><br/>
   3 years building web & mobile apps · AI workflows · CI/CD · from Manila 🇵🇭
 </p>
 
