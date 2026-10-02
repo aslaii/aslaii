@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm aslaii 👋</h1>
 <p align="center">
   <b>Software Engineer</b><br/>
-  3 years building web & mobile apps · AI workflows · CI/CD · from Manila 🇵🇭
+  4 years building web & mobile apps · AI workflows · from Manila 🇵🇭
 </p>
 
 <p align="center">
