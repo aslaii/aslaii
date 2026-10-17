@@ -118,7 +118,7 @@
 
 ### 🎓 Research & Publication
 
-🗑️ **KALAT (Keep Area Lean And Tidy)** — Capstone, BS Computer Engineering · Mapúa MCL 2024
+🗑️ **KALAT (Keep Area Lean And Tidy)** — Capstone, BS Computer Engineering · Mapúa MCL 2022
 A web-based system + Arduino hardware for data-driven solid waste management in Calamba City. GSM-equipped smart bins with real-time weight sensing feed a Next.js dashboard; routing optimized via Google OR-Tools VRP solver. Co-authored with J. David and J.P. Parica.
 → **[trash-backend](https://github.com/aslaii/trash-backend)** (Python/Flask + OR-Tools)
 
